@@ -42,7 +42,7 @@ Real-time-voice-translator/
 └── README.md                  # Project documentation
 ```
 
-Local Setup & Installation Instructions
+# Local Setup & Installation Instructions
 
 Anyone who wants to clone and run this project locally can follow these steps:
 
@@ -53,8 +53,8 @@ cd Real-time-voice-translator
 2. Configure Environment Variables
 Create a .env file inside the backend/ directory and add your port and API configuration:
 PORT=5000
-# Add your API Keys below if applicable:
-# API_KEY=your_api_key_here
+ Add your API Keys below if applicable:
+ API_KEY=your_api_key_here
 
 3. Start the Backend Server
 cd backend
