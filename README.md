@@ -40,3 +40,23 @@ Real-time-voice-translator/
 │   └── server.js              # Express server setup and backend routes
 │
 └── README.md                  # Project documentation
+
+
+Local Setup & Installation Instructions
+Anyone who wants to clone and run this project locally can follow these steps:
+1. Clone the Repository
+git clone [https://github.com/Chamulalam/Real-time-voice-translator.git](https://github.com/Chamulalam/Real-time-voice-translator.git)
+cd Real-time-voice-translator
+2. Configure Environment Variables
+Create a .env file inside the backend/ directory and add your port and API configuration:
+PORT=5000
+# Add your API Keys below if applicable:
+# API_KEY=your_api_key_here
+3. Start the Backend Server
+cd backend
+npm install
+npm start
+The backend server will start and run on http://localhost:5000.
+4. Launch the Frontend Client
+Open frontend/index.html in VS Code.
+Right-click index.html and select "Open with Live Server" (or open the file directly in Google Chrome / Firefox).
