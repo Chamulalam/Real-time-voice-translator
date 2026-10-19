@@ -68,7 +68,7 @@ Right-click index.html and select "Open with Live Server" (or open the file dire
 
 ##  Team Members & Roles
 
-This project was developed by a 5-member team:
+This project was developed by a 4-member team:
 
 * **Chamundeswari Lalam** — Full-Stack Developer
 * **Pooja Suryavamsi** — Frontend Developer
