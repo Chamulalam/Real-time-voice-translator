@@ -65,3 +65,12 @@ The backend server will start and run on http://localhost:5000.
 4. Launch the Frontend Client
 Open frontend/index.html in VS Code.
 Right-click index.html and select "Open with Live Server" (or open the file directly in Google Chrome / Firefox).
+
+## 👥 Team Members & Roles
+
+This project was developed by a 5-member team:
+
+* **Chamundeswari Lalam** — Full-Stack Developer
+* **Pooja Suryavamsi** — Frontend Developer
+* **Venkata Sri Sai Lakshmi Prasanna Thota** — Frontend Developer
+* **Anusha Mallela** — Backend Developer
